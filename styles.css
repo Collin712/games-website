@@ -10,9 +10,8 @@
 }
 body {
   font-family: helvetica;
-  background-image: url(https://pacificlegal.org/wp-content/uploads/2015/12/eso-summary_2357457k.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url(stars.jpg);
+  background-size: 20%;
 }
 button {
   font-size: x-large;
